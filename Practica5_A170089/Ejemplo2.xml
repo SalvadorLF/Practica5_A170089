@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/dark_/Documents/Servicios%20Web/Practica5_A170089/Ejemplo2.xsl"?>
+<perros>
+  <perro>
+    <nombre>Firulays</nombre>
+    <raza>Boxer</raza>
+  </perro>
+  <perro>
+    <nombre>Solovino</nombre>
+    <raza>Pug</raza>
+  </perro>
+  <perro>
+    <nombre>Bingo</nombre>
+    <raza>Labrador</raza>
+  </perro>
+  <perro>
+    <nombre>Willi</nombre>
+    <raza>Chihuahua</raza>
+  </perro>
+  <perro>
+    <nombre>Campeon</nombre>
+    <raza>Pastor Aleman</raza>
+  </perro>
+</perros>
